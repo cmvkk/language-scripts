@@ -1,0 +1,40 @@
+html, body {
+	background: #DDEEFF;
+	font-family: verdana, sans-serif;
+	font-size: 12px;
+}
+
+td {
+	background: #DDDDDD;
+	border-width: 1px;
+	border-color: black;
+	border-style: solid;
+	padding: 10px;
+	margin: 0px;
+}
+
+p.hide {
+	text-decoration: none;
+	color: #DDDDDD;
+}
+
+p.hide:hover {
+	text-decoration: none;
+	color: #000000;
+}
+
+div.spacer {
+	height: 500px;
+}
+
+div.smspacer {
+	height: 150px;
+}
+
+#flash .hide, #flash .show {
+	font-size: 30px;
+}
+
+#list .hide, #list .show {
+	font-size: 14px;
+}
